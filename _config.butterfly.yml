@@ -1061,7 +1061,7 @@ wowjs:
 envelope_comment:
   enable: true #控制开关
   custom_pic:
-    cover: https://www.hualigs.cn/image/647ba8cc8fc02.jpg #信笺头部图片
+    cover: https://tuchuang.voooe.cn/images/2023/01/02/violet.webp #信笺头部图片
     line: https://tuchuang.voooe.cn/images/2023/01/02/line.webp #信笺底部图片
     beforeimg: https://tuchuang.voooe.cn/images/2023/01/02/before.webp # 信封前半部分
     afterimg: https://tuchuang.voooe.cn/images/2023/01/02/after.webp # 信封后半部分
