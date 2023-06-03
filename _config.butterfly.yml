@@ -8,18 +8,6 @@ menu:
     归档: /archives/ || icon-guidang1 || faa-tada
     标签: /tags/ || icon-sekuaibiaoqian || faa-tada
     分类: /categories/ || icon-fenlei || faa-tada
-  休闲 || icon-pinweishenghuo || faa-tada || hide:
-    八音盒: /life/music/ ||icon-yinle || faa-tada
-    影院: /life/movies/ ||icon-dianying1 || faa-tada
-    游戏: /life/games/ || icon-youxishoubing || faa-tada
-  八宝箱 || icon-xiangzi || faa-tada || hide:
-    画廊: /box/gallery/ ||icon-tubiaozhizuomoban || faa-tada
-    动画: /box/animation/ || icon-nvwumao || faa-tada
-    网址导航: /box/nav/ || icon-zhifengche || faa-tada
-  社交 || icon-shejiaoxinxi || faa-tada || hide:
-    朋友圈: /social/fcircle/ || icon-pengyouquan || faa-tada
-    留言板: /comments/ || icon-liuyan || faa-tada
-    友人帐: /social/link/ || icon-lianjie || faa-tada
   网站 || icon-wangye || faa-tada || hide:
     网站统计: /site/census/ || icon--tongjibiao || faa-tada
     文章统计: /site/echarts/ || icon-shujutongji1 || faa-tada
@@ -53,10 +41,10 @@ copy:
 social:
   # Github: https://github.com/fomalhaut1998 || icon-github || faa-tada
   微信: /assets/QRCode.jpg || icon-weixin || faa-tada
-  QQ: https://res.abeim.cn/api/qq/?qq=1174008660 || icon-QQ || faa-tada
-  B站: https://space.bilibili.com/220757832 || icon-bilibili || faa-tada
-  QQ邮箱: mailto:1174008660@qq.com || icon-youxiang || faa-tada
-  力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
+  QQ: https://res.abeim.cn/api/qq/?qq=2953420030 || icon-QQ || faa-tada
+  B站: https://live.bilibili.com/23350904 || icon-bilibili || faa-tada
+  QQ邮箱: mailto:2953420030@qq.com || icon-youxiang || faa-tada
+  # 力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
   # 微博: https://weibo.com/u/6473136435 || icon-weibo || faa-tada
   # 知乎: https://www.zhihu.com/people/liang-jia-chao-19 || icon-shejiaotubiao-10 || faa-tada
   # RSS: /atom.xml || icon-RSS || faa-tada
@@ -701,11 +689,11 @@ aside:
     button:
       enable: true
       icon: # fab fa-github
-      text: 前往小窝
-      link: https://github.com/fomalhaut1998
+      text: 前往B站直播间
+      link: https://live.bilibili.com/23350904
   card_announcement:
     enable: true
-    content: <center><b>--- 主域名 ---<br><a href="https://daiganxiaozhan.love" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">daiganxiaozhan.love</font></a>&nbsp;|&nbsp;<a href="https://www.fomal.cn" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">fomal.cn</font></a>
+    content: <center><b>--- 主域名 ---<br><a href="https://daiganxiaozhan.love" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">daiganxiaozhan.love</font></a>&nbsp;|&nbsp;<a href="https://daiganxiaozhan.love" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">fomal.cn</font></a>
   card_recent_post:
     enable: false
     limit: 3 # if set 0 will show all
