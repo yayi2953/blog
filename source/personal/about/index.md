@@ -9,7 +9,7 @@ date: 2022-08-10 16:05:11
 
 <div class="about_page">
   <div align=center class="aspect-ratio">
-      <iframe src="https://webstatic.mihoyo.com/upload/op-public/2020/09/27/fd431739ff26ceeb3010ac561d68446b_345688670889091949.mp4" 
+      <iframe src="https://www.bilibili.com/video/BV1FL411h7ah/?spm_id_from=pageDriver&vd_source=9311ab147798d666ca4da2942c1c9c85" 
       scrolling="no" 
       border="0" 
       frameborder="no" 
