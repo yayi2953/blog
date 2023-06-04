@@ -365,7 +365,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: 
+  envId: https://twikoo.daiganxiaozhan.love
   region:
   visitor: false
   option:
@@ -527,15 +527,16 @@ tag_ui: # 留空或 index
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 # "#e4f4f6" "#efefef"
-background:
+background: 
+  default: url(https://w.wallhaven.cc/full/zy/wallhaven-zyod3w.jpg)
   #【必选】默认背景 
-  default: var(--default-bg)
-  #【可选】PC端夜间模式背景 
-  darkmode: var(--darkmode-bg)
-  #【可选】移动端日间默认背景 
-  mobileday: var(--mobileday-bg)
-  #【可选】移动端夜间模式背景 
-  mobilenight: var(--mobilenight-bg)
+  # default: var(--default-bg)
+  # #【可选】PC端夜间模式背景 
+  # darkmode: var(--darkmode-bg)
+  # #【可选】移动端日间默认背景 
+  # mobileday: var(--mobileday-bg)
+  # #【可选】移动端夜间模式背景 
+  # mobilenight: var(--mobilenight-bg)
 
 # Footer Background
 footer_bg: false
@@ -955,7 +956,7 @@ CDN:
     # valine: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/valine/1.4.16/Valine.min.js
     # disqusjs: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/disqusjs/1.3.0/disqus.js
     # disqusjs_css: https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/disqusjs/1.3.0/disqusjs.css
-    twikoo: https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js
+    twikoo: https://cdn.staticfile.org/twikoo/1.6.16/twikoo.all.min.js
     # waline_js: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/waline/1.5.4/Waline.min.js
     # waline_css:
     # sharejs: https://lib.baomitu.com/social-share.js/1.0.16/js/social-share.min.js
