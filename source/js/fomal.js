@@ -3403,35 +3403,8 @@ function createWinbox() {
 <h2>四、背景设置</h2>
 <center><button onclick="resetBg()" style="background:var(--theme-color);display:block;width:35%;padding:15px 0;border-radius:30px;color:white;"><i class="fa-solid fa-arrows-rotate"></i>&nbsp;恢复默认背景</button></center>
 
-<h3>1. 二次元</h3>
-{% folding cyan, 查看二次元背景 %}
-<div class="bgbox">
-<a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/home_bg.webp)')"></a>
 
-</div>
-{% endfolding %}
-
-
-<h3>2. 风景</h3>
-
-{% folding cyan, 查看风景背景 %}
-<div class="bgbox">
-<a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/fj1.webp)')"></a>
-
-
-</div>
-{% endfolding %}
-
-<h3>3. 萌宠</h3>
-
-{% folding cyan, 查看萌宠背景 %}
-<div class="bgbox">
-<a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/mc1.webp)" class="imgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/mc1.webp)')"></a>
-
-</div>
-{% endfolding %}
-
-<h3>4. 渐变色</h3>
+<h3>1. 渐变色</h3>
 {% folding cyan, 查看渐变色背景 %}
 <div class="bgbox">
 <a href="javascript:;" rel="noopener external nofollow" class="box" style="background: linear-gradient(to right, #544a7d, #ffd452)" onclick="changeBg('linear-gradient(to right, #544a7d, #ffd452)')"></a>
@@ -3446,7 +3419,7 @@ function createWinbox() {
 {% endfolding %}
 
 
-<h3>5. 纯色</h3>
+<h3>2. 纯色</h3>
 {% folding cyan, 查看纯色背景 %}
 <div class="bgbox">
 <a href="javascript:;" rel="noopener external nofollow" class="box" style="background: #ecb1b1" onclick="changeBg('#ecb1b1')"></a> 
@@ -3461,17 +3434,7 @@ function createWinbox() {
 {% endfolding %}
 
 
-
-<h3>6. 适配手机</h3>
-{% folding cyan, 查看适配手机的背景 %}
-<div class="bgbox">
-<a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/mb4.webp)" class="pimgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/mb4.webp)')"></a>
-
-</div>
-{% endfolding %}
-
-
-<h3>7. 壁纸API</h3>
+<h3>3. 壁纸API</h3>
 {% folding cyan, 查看壁纸API系列背景 %}
 <div class="bgbox">
 <a id="bingDayBox" rel="noopener external nofollow" style="background-image: ${bingDayBg}" class="box apiBox" onclick="changeBg('${bingDayBg}')"></a>
@@ -3486,7 +3449,7 @@ function createWinbox() {
 {% endfolding %}
 
 
-<h3>8. 自定义背景</h3>
+<h3>4. 自定义背景</h3>
 {% folding cyan, 设置自定义背景 %}
 <p><center>
 <input type="text" id="pic-link" size="70%" maxlength="1000" placeholder="请输入有效的图片链接，如 https://source.fomal.cc/img/home_bg.webp">
