@@ -6,7 +6,7 @@
 title: 小破站🥝
 subtitle: 
 description: 'Future is now 🍭🍭🍭'
-keywords: 'Java,MySQL,算法,代码,博客,Butterfly,Hexo,小破站🥝,lhauFomat'
+keywords: 'Java,MySQL,算法,代码,博客,Butterfly,Hexo,小破站🥝,原神崩坏：星穹铁道定制代肝'
 author: 小破站🥝
 language: zh-CN
 timezone: ''
@@ -282,11 +282,11 @@ magnet:
     - name: Java基础
       display_name: 小FのJava基础笔记
       icon: 🍟
-    - name: 数据库
-      display_name: 小Fの数据库笔记
+    - name: 崩坏：星穹铁道
+      display_name: 小破站🥝崩坏：星穹铁道
       icon: 🍨
-    - name: 演示
-      display_name: 小Fの案例演示笔记
+    - name: 原神
+      display_name: 小破站🥝原神
       icon: 🍥
   color_setting:
     text_color: black # 文字默认颜色
