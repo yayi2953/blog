@@ -9,7 +9,7 @@ date: 2022-08-10 16:05:11
 
 <div class="about_page">
   <div align=center class="aspect-ratio">
-      <iframe src="https://player.bilibili.com/player.html?aid=474023258&&page=1&as_wide=1&high_quality=1&danmaku=0" 
+      <iframe src="https://webstatic.mihoyo.com/upload/op-public/2020/09/27/fd431739ff26ceeb3010ac561d68446b_345688670889091949.mp4" 
       scrolling="no" 
       border="0" 
       frameborder="no" 
