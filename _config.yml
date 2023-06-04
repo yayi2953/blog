@@ -270,18 +270,18 @@ magnet:
   type: categories
   devide: 3
   display:
-    - name: PC游戏🥝
-      display_name: 🥝想玩游戏点我~
-      icon: 🍉
-    - name: 版本答案🥝
-      display_name: 🥝版本答案点我~
-      icon: 🍟
-    - name: 大神攻略🥝
-      display_name: 🥝小代驿站点我~
-      icon: 🍨
     - name: 游戏代肝🥝
       display_name: 🥝要找代肝点我~
       icon: 🍥
+    - name: 大神攻略🥝
+      display_name: 🥝小代驿站点我~
+      icon: 🍨
+    - name: 版本答案🥝
+      display_name: 🥝版本答案点我~
+      icon: 🍟
+    - name: 白嫖游戏🥝
+      display_name: 🥝想玩游戏点我~
+      icon: 🍉
   color_setting:
     text_color: black # 文字默认颜色
     text_hover_color: white # 文字鼠标悬浮颜色
