@@ -1119,7 +1119,7 @@ function createtime1() {
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到小破站🥝の小家!`,
+    `欢迎来到小破站🥝小代之家!`,
     `Future is now 🍭🍭🍭`,
     `
         

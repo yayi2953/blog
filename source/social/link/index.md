@@ -9,9 +9,9 @@ type: "link"
 <!-- tab 🙋 butterfly-💭candy -->
 ```yml
     - name: 小破站🥝
-      link: https://www.fomal.cc/
+      link: https://daiganxiaozhan.love/
       avatar: https://www.fomal.cc/assets/avatar.webp
-      descr: Future is now 🍭🍭🍭
+      descr: 向晚与三生の小站 🍭🍭🍭
       siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
 ```
 <!-- endtab -->
@@ -21,9 +21,9 @@ type: "link"
 {
   "title": "小破站🥝",
   "screenshot": "https://source.fomal.cc/siteshot/www.fomal.cn.jpg",
-  "url": "https://www.fomal.cc/",
+  "url": "https://www.baidu.com/",
   "avatar": "https://www.fomal.cc/assets/avatar.webp",
-  "description": "Future is now 🍭🍭🍭",
+  "description": "暂未添加 🍭🍭🍭",
   "keywords": "小破站🥝"
 }
 ```
@@ -35,10 +35,10 @@ type: "link"
 | ---------- | ------------------------------------------------------------ |
 | 站点名称   | 小破站🥝                                                   |
 | 站点截图   | https://source.fomal.cc/siteshot/www.fomal.cn.jpg |
-| 站点链接   | https://www.fomal.cc/                                        |
+| 站点链接   | https://daiganxiaozhan.love/                                        |
 | 站长头像   | https://www.fomal.cc/assets/avatar.webp                         |
-| 站点描述   | Future is now🍭🍭🍭                         |
-| 站点关键词 | 小破站🥝,个人博客,代码                                     |
+| 站点描述   | 向晚与三生の小站🍭🍭🍭                         |
+| 站点关键词 | 小破站🥝,个人博客,原神,原神代肝,原神攻略                                     |
 
 <!-- endtab -->
 {% endtabs %}
