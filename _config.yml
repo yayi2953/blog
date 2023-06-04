@@ -282,11 +282,11 @@ magnet:
     - name: Java基础
       display_name: 小FのJava基础笔记
       icon: 🍟
-    - name: 崩坏：星穹铁道
-      display_name: 小破站🥝崩坏：星穹铁道
+    - name: 崩坏:星穹铁道
+      display_name: 🥝崩坏:星穹铁道
       icon: 🍨
     - name: 原神
-      display_name: 小破站🥝原神
+      display_name: 🥝原神
       icon: 🍥
   color_setting:
     text_color: black # 文字默认颜色
