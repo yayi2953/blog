@@ -529,7 +529,7 @@ tag_ui: # 留空或 index
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 # "#e4f4f6" "#efefef"
 background: 
-  default: url(https://w.wallhaven.cc/full/zy/wallhaven-zyod3w.jpg)
+  default: url(https://s2.xptou.com/2023/06/05/647de078603b9.jpg)
   #【必选】默认背景 
   # default: var(--default-bg)
   # #【可选】PC端夜间模式背景 
