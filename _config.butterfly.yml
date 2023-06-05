@@ -10,10 +10,11 @@ menu:
     分类: /categories/ || icon-fenlei || faa-tada
   网站 || icon-wangye || faa-tada || hide:
     旧时光: /site/time/ || icon-xianxingshalou || faa-tada
+    我的朋友: /social/link/ || icon-paperplane || faa-tada
   个人 || icon-maoliang || faa-tada || hide:
     唠叨: /personal/bb/ || icon-qunliaotian || faa-tada
     恋爱小屋: /personal/love/ || icon-love-sign || faa-tada
-    关于: /personal/about/ || icon-paperplane || faa-tada
+    大佬攻略: /personal/about/ || icon-paperplane || faa-tada
 
 # Code Blocks (代碼相關)
 # --------------------------------------
