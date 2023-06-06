@@ -8,7 +8,7 @@ type: "link"
 {% tabs link %}
 <!-- tab 🙋 butterfly-💭candy -->
 ```yml
-    - name: 小破站🥝
+    - name: Rave🥝Game
       link: https://daiganxiaozhan.love/
       avatar: https://s2.xptou.com/2023/06/06/647f0d91aab8c.jpg
       descr: 向晚三生の小站 🍭🍭🍭
@@ -19,12 +19,12 @@ type: "link"
 <!-- tab 🥗Volantis -->
 ```JSON
 {
-  "title": "小破站🥝",
+  "title": "Rave🥝Game",
   "screenshot": "https://source.fomal.cc/siteshot/www.fomal.cn.jpg",
   "url": "https://www.baidu.com/",
   "avatar": "https://s2.xptou.com/2023/06/06/647f0d91aab8c.jpg",
   "description": "向晚三生の小站 🍭🍭🍭",
-  "keywords": "小破站🥝"
+  "keywords": "Rave🥝Game"
 }
 ```
 <!-- endtab -->
@@ -33,12 +33,12 @@ type: "link"
 
 | 名称       | 数值                                                         |
 | ---------- | ------------------------------------------------------------ |
-| 站点名称   | 小破站🥝                                                   |
+| 站点名称   | Rave🥝Game                                                   |
 | 站点截图   | https://source.fomal.cc/siteshot/www.fomal.cn.jpg |
 | 站点链接   | https://daiganxiaozhan.love/                                        |
 | 站长头像   | https://www.fomal.cc/assets/avatar.webp                         |
 | 站点描述   | 向晚三生の小站🍭🍭🍭                         |
-| 站点关键词 | 小破站🥝,个人博客,原神,原神代肝,原神攻略                                     |
+| 站点关键词 | Rave🥝Game,个人博客,原神,原神代肝,原神攻略                                     |
 
 <!-- endtab -->
 {% endtabs %}

@@ -173,7 +173,7 @@
     var dnum = Math.floor(days);
   
     var ascll = [
-      `欢迎来到小破站🥝小代の家!`,
+      `欢迎来到Rave🥝Game小代の家!`,
       `向晚三生の小站 🍭🍭🍭`,
       `
           
@@ -226,7 +226,7 @@
     setTimeout(
       console.warn.bind(
         console,
-        "%c ⚡ Powered by 小破站🥝 %c 你正在访问小破站🥝小代の家",
+        "%c ⚡ Powered by Rave🥝Game %c 你正在访问Rave🥝Game小代の家",
         "color:white; background-color:#f0ad4e",
         ""
       )

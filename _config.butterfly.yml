@@ -654,7 +654,7 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - "Welcome to 小破站🥝のTiny Home!🤣🤣🤣"
+    - "Welcome to Rave🥝GameのTiny Home!🤣🤣🤣"
     - "Hope you have a nice day!🍭🍭🍭"
 
 # Loading Animation (加載動畫)
@@ -688,7 +688,7 @@ aside:
       link: https://live.bilibili.com/23350904
   card_announcement:
     enable: true
-    content: <center><b>--- 主域名 ---<br><a href="https://daiganxiaozhan.love" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">小破站🥝</font></a>&nbsp;|&nbsp;<a href="https://daiganxiaozhan.love" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">小破站🥝</font></a>
+    content: <center><b>--- 主域名 ---<br><a href="https://daiganxiaozhan.love" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">Rave🥝Game</font></a>&nbsp;|&nbsp;<a href="https://daiganxiaozhan.love" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">Rave🥝Game</font></a>
   card_recent_post:
     enable: false
     limit: 3 # if set 0 will show all
