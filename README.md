@@ -174,7 +174,7 @@
   
     var ascll = [
       `欢迎来到小破站🥝小代の家!`,
-      `向晚与三生の小站 🍭🍭🍭`,
+      `向晚三生の小站 🍭🍭🍭`,
       `
           
   ███████  ██████  ███    ███  █████  ██      ██   ██  █████  ██    ██ ████████ 
@@ -261,12 +261,12 @@
     enable: true
     coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
     QR_code:
-      - img: https://tuchuang.voooe.cn/images/2023/01/04/2.webp
+      - img: https://s2.xptou.com/2023/06/04/647c74f814917.jpg
         link:
         text: 微信
-      - img: https://tuchuang.voooe.cn/images/2023/01/04/20f8e49805975b8f8.webp
+      - img: https://s2.xptou.com/2023/06/04/647c74f2af16d.jpg
         link:
-        text: 支付宝
+        text: QQ
   ```
 
 - 哔哔页面样式部分：见`source\personal\bb\index.md`：

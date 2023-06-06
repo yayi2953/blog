@@ -10,8 +10,8 @@ type: "link"
 ```yml
     - name: 小破站🥝
       link: https://daiganxiaozhan.love/
-      avatar: https://www.fomal.cc/assets/avatar.webp
-      descr: 向晚与三生の小站 🍭🍭🍭
+      avatar: https://s2.xptou.com/2023/06/06/647f0d91aab8c.jpg
+      descr: 向晚三生の小站 🍭🍭🍭
       siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
 ```
 <!-- endtab -->
@@ -37,7 +37,7 @@ type: "link"
 | 站点截图   | https://source.fomal.cc/siteshot/www.fomal.cn.jpg |
 | 站点链接   | https://daiganxiaozhan.love/                                        |
 | 站长头像   | https://www.fomal.cc/assets/avatar.webp                         |
-| 站点描述   | 向晚与三生の小站🍭🍭🍭                         |
+| 站点描述   | 向晚三生の小站🍭🍭🍭                         |
 | 站点关键词 | 小破站🥝,个人博客,原神,原神代肝,原神攻略                                     |
 
 <!-- endtab -->
