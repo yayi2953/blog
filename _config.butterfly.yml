@@ -3,8 +3,8 @@
 # --------------------------------------
 
 menu:
-  首页: / || icon-home || faa-tada
-  文章 || icon--article || faa-tada || hide:
+  主站: / || icon-home || faa-tada
+  推文 || icon--article || faa-tada || hide:
     归档: /archives/ || icon-guidang1 || faa-tada
     标签: /tags/ || icon-sekuaibiaoqian || faa-tada
     分类: /categories/ || icon-fenlei || faa-tada
@@ -688,7 +688,7 @@ aside:
       link: https://live.bilibili.com/23350904
   card_announcement:
     enable: true
-    content: <center><b>--- 主域名 ---<br><a href="https://daiganxiaozhan.love" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">Rave🥝Game</font></a>&nbsp;
+    content: <center><b>当前域名<br><a href="https://daiganxiaozhan.love" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">Rave🥝Game</font></a>&nbsp;
   card_recent_post:
     enable: false
     limit: 3 # if set 0 will show all
