@@ -22,8 +22,8 @@ type: "link"
   "title": "小破站🥝",
   "screenshot": "https://source.fomal.cc/siteshot/www.fomal.cn.jpg",
   "url": "https://www.baidu.com/",
-  "avatar": "https://www.fomal.cc/assets/avatar.webp",
-  "description": "暂未添加 🍭🍭🍭",
+  "avatar": "https://s2.xptou.com/2023/06/06/647f0d91aab8c.jpg",
+  "description": "向晚三生の小站 🍭🍭🍭",
   "keywords": "小破站🥝"
 }
 ```
