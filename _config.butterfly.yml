@@ -524,7 +524,7 @@ tag_ui: # 留空或 index
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 # "#e4f4f6" "#efefef"
 background: 
-  default: url(https://f.pz.al/pzal/2023/06/06/d73aa6288a7ec.png)
+  default: url(https://s2.xptou.com/2023/06/06/647f05ed60fc3.png)
   #【必选】默认背景 
   # default: var(--default-bg)
   # #【可选】PC端夜间模式背景 
