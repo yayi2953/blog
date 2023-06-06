@@ -524,7 +524,7 @@ tag_ui: # 留空或 index
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 # "#e4f4f6" "#efefef"
 background: 
-  default: url(https://cn-beijing-data.aliyundrive.net/imagethumbnail%2Fbj29%2383927823%2F6401fc5c304fda5496eb4101961d691b7f01c8ca%236401fc5cbd220d0a8fad41419be406f9a728a03e%231080?security-token=CAIS%2BgF1q6Ft5B2yfSjIr5fWLO%2FEoIYWg464V37ciVIPWMJvrvPmijz2IHFPeHJrBeAYt%2FoxmW1X5vwSlq5rR4QAXlDfNV2WH0S2qFHPWZHInuDox55m4cTXNAr%2BIhr%2F29CoEIedZdjBe%2FCrRknZnytou9XTfimjWFrXWv%2Fgy%2BQQDLItUxK%2FcCBNCfpPOwJms7V6D3bKMuu3OROY6Qi5TmgQ41Uh1jgjtPzkkpfFtkGF1GeXkLFF%2B97DRbG%2FdNRpMZtFVNO44fd7bKKp0lQLukMWr%2Fwq3PIdp2ma447NWQlLnzyCMvvJ9OVDFyN0aKEnH7J%2Bq%2FzxhTPrMnpkSlacGoABf7TDQmvu8zoFvwslYncuG5q%2FZxHTnHDpxMbw4t3qIBk6573l98TwDBbVA7esvYzSviHF11uS%2FS9qHBacjsN10an%2BJjg5BC4dY3X4LLT2GNVMxQKn7Bh2b0Rsx05pTUwl8m4u57y2Viktt0f85KtMuk9nXzt6v9bAfAgX1dBjp%2Bw%3D&x-oss-access-key-id=STS.NTcgUpMY74LSUXmmRZTMCA6Mh&x-oss-expires=1686042187&x-oss-process=image%2Fresize%2Cw_1920%2Fformat%2Cjpeg&x-oss-signature=JL71QetatjU4ck3Gv7VmnJph32E68LxTzXRKFenVLWg%3D&x-oss-signature-version=OSS2)
+  default: url(https://cui.la/nZbZo)
   #【必选】默认背景 
   # default: var(--default-bg)
   # #【可选】PC端夜间模式背景 
