@@ -1002,13 +1002,13 @@ wowjs:
       delay: 200ms #选填项，动画开始的延迟时间，单位可以是ms也可以是s。例如3s，700ms。
       offset: 30 #选填项，开始动画的距离（相对浏览器底部）
       iteration: 1 #选填项，动画重复的次数
-     置顶滚动栏
-     - class: blog-slider swiper-container-fade swiper-container-horizontal
-       style: animate__zoomIn
-       duration: 1.5s
-       delay: 200ms
-       offset: 30
-       iteration: 1
+    # 置顶滚动栏
+    # - class: blog-slider swiper-container-fade swiper-container-horizontal
+    #   style: animate__zoomIn
+    #   duration: 1.5s
+    #   delay: 200ms
+    #   offset: 30
+    #   iteration: 1
     # 分类磁贴
     # - class: catalog_magnet
     #   style: animate__zoomIn
