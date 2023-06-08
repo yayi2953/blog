@@ -1030,22 +1030,22 @@ wowjs:
     #   delay: 200ms
     #   offset: 30
     #   iteration: 1
-    # 友链卡片
-    # - class: flink-list-card
-    #   style: animate__flipInY
-    #   duration: 3s
-    # - class: flink-list-card
-    #   style: animate__animated
-    #   duration: 3s
-    # - class: article-sort-item
-    #   style: animate__slideInRight
-    #   duration: 1.5s
-    # - class: site-card
-    #   style: animate__flipInY
-    #   duration: 3s
-    # - class: site-card
-    #   style: animate__animated
-    #   duration: 3s
+     友链卡片
+    - class: flink-list-card
+       style: animate__flipInY
+       duration: 3s
+     - class: flink-list-card
+       style: animate__animated
+       duration: 3s
+     - class: article-sort-item
+       style: animate__slideInRight
+       duration: 1.5s
+     - class: site-card
+       style: animate__flipInY
+       duration: 3s
+     - class: site-card
+       style: animate__animated
+       duration: 3s
   animate_css: https://npm.elemecdn.com/hexo-butterfly-wowjs/lib/animate.min.css
   wow_js: https://npm.elemecdn.com/hexo-butterfly-wowjs/lib/wow.min.js
   wow_init_js: https://npm.elemecdn.com/hexo-butterfly-wowjs/lib/wow_init.js
