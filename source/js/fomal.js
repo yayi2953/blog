@@ -3041,7 +3041,7 @@ function toggleRightside() {
 
 // 透明度调节滑块
 if (localStorage.getItem("transNum") == undefined) {
-  localStorage.setItem("transNum", 0);
+  localStorage.setItem("transNum", 50);
 }
 var curTransNum = localStorage.getItem("transNum");
 var curTransMini = curTransNum * 0.95;
