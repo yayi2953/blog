@@ -532,7 +532,7 @@ background:
   # #【可选】移动端日间默认背景 
   mobileday: rul(https://f.pz.al/pzal/2023/06/09/17250e98dfbdf.png)
   # #【可选】移动端夜间模式背景 
-  mobilenight: var(--mobilenight-bg)
+  mobilenight: rul(https://f.pz.al/pzal/2023/06/09/17250e98dfbdf.png)
 
 # Footer Background
 footer_bg: false
