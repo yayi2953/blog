@@ -279,8 +279,8 @@ magnet:
     - name: 版本答案🥝
       display_name: 🥝版本答案点我~
       icon: 🍟
-    - name: 白嫖游戏🥝
-      display_name: 🥝想玩游戏点我~
+    - name: 大佬攻略🥝
+      display_name: 🥝想看攻略点我~
       icon: 🍉
   color_setting:
     text_color: black # 文字默认颜色
