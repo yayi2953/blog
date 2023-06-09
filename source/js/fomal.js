@@ -3082,7 +3082,7 @@ function setBlurNum() {
 
 // 模糊效果开关
 if (localStorage.getItem("blur") == undefined) {
-  localStorage.setItem("blur", 0);
+  localStorage.setItem("blur", 1);
 }
 if (localStorage.getItem("blur") == 0) {
   document.getElementById("settingStyle").innerText = `:root{--backdrop-filter: none}`;
