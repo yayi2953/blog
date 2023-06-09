@@ -36,7 +36,7 @@ social:
   # Github: https://github.com/fomalhaut1998 || icon-github || faa-tada
   微信: /assets/QRCode.jpg || icon-weixin || faa-tada
   QQ: https://res.abeim.cn/api/qq/?qq=2953420030 || icon-QQ || faa-tada
-  # B站: https://live.bilibili.com/23350904 || icon-bilibili || faa-tada
+  B站: https://live.bilibili.com/23350904 || icon-bilibili || faa-tada
   QQ邮箱: mailto:2953420030@qq.com || icon-youxiang || faa-tada
   # 力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
   # 微博: https://weibo.com/u/6473136435 || icon-weibo || faa-tada
@@ -95,7 +95,7 @@ favicon:
 
 # Avatar (頭像)
 avatar:
-  img: https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp
+  img: https://s2.xptou.com/2023/06/04/647c635e1130a.jpg
   effect: false
 
 # Disable all banner image
