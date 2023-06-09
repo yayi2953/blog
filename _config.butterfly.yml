@@ -10,7 +10,7 @@ menu:
     分类: /categories/ || icon-fenlei || faa-tada
   网站 || icon-wangye || faa-tada || hide:
     旧时光: /site/time/ || icon-xianxingshalou || faa-tada
-    收录攻略: /personal/about/ || icon-paperplane || faa-tada
+    收录攻略: /personal/about/ || icon-xianxingshalou || faa-tada
 # Code Blocks (代碼相關)
 # --------------------------------------
 
