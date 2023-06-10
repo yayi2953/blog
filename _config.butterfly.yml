@@ -686,10 +686,6 @@ aside:
       icon: # fab fa-github
       text: 前往B站崩铁直播间
       link: https://live.bilibili.com/23350904
-      enable: true
-      icon: # fab fa-github
-      text: 前往B站原神直播间
-      link: https://live.bilibili.com/27702902
   card_announcement:
     enable: true
     content: <center><b>当前域名<br><a href="https://daiganxiaozhan.love" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">Rave🥝Game</font></a>&nbsp;
