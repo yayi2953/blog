@@ -686,7 +686,6 @@ aside:
       icon: # fab fa-github
       text: 前往B站崩铁直播间
       link: https://live.bilibili.com/23350904
-  card_author:
     enable: true
     description:
     button:
