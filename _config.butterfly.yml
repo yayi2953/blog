@@ -1058,7 +1058,7 @@ wowjs:
 envelope_comment:
   enable: true #控制开关
   custom_pic:
-    cover: https://s2.xptou.com/2023/06/07/647f6aeee2808.png #信笺头部图片
+    cover: https://pic.imgdb.cn/item/648bf5451ddac507ccdf44c0.png #信笺头部图片
     line: https://tuchuang.voooe.cn/images/2023/01/02/line.webp #信笺底部图片
     beforeimg: https://tuchuang.voooe.cn/images/2023/01/02/before.webp # 信封前半部分
     afterimg: https://tuchuang.voooe.cn/images/2023/01/02/after.webp # 信封后半部分
